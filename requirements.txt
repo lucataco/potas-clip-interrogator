@@ -1,0 +1,4 @@
+potassium
+torch
+transformers
+clip_interrogator
